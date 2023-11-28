@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lubo1337 and I'm 17 y/o
+- 👋 Hi, I’m @Lubo1337 aka f0reN and I'm 17 y/o
 - 👀 I’m interested in: programming
 - 🌱 I’m currently learning C#, Python
 - 💞️ I wannа communicate with people who can teach me about coding/hacking.
