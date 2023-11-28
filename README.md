@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lubo1337 and I'm 17 y/o
 - 👀 I’m interested in: programming
-- 🌱 I’m currently learning ...C#, Python, C++ and JS
+- 🌱 I’m currently learning C#, Python
 - 💞️ I wannа communicate with people who can teach me about coding/hacking.
 - 📫 How to reach me: Discord: f0ren1337
 
